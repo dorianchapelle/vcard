@@ -1,0 +1,87 @@
+html, body {
+    min-height: 100%;
+}
+
+html {
+    background-image:url(img/53.jpg);
+    background-repeat:no-repeat;
+    background-size: cover;
+}
+
+p {
+    max-width: 600px;
+    margin: auto
+}
+
+body {
+    color: whitesmoke;
+}
+
+form {
+    height: 40px;
+    width: 210px;   
+    position: absolute;
+    margin: 460px 0 0 348px;
+}
+
+input {
+    font-family: 'Titillium Web', sans-serif;
+    align-content: center;
+    margin: 3px;
+    height: 30px;
+    width: 210px
+    
+}
+
+.section--text {
+    background: rgba(255,255,255,.2);
+    font-family: 'Titillium Web', sans-serif;
+    font-size: 17px;
+	color:aliceblue;
+	line-height: 1.44;
+	margin: 200px 0 0 600px;
+    padding: 25px ;
+    position: absolute;
+    box-shadow: 0px 1px 5px -10px
+}
+
+.title--section {
+    font-family: 'Glegoo', serif;;
+    font-size: 85px;
+	color:aliceblue;
+	line-height: 1;
+	margin: 95px 0 0 628px;	
+    position: absolute;
+}
+
+.fiche {
+    list-style: none;
+}
+
+.icon {
+
+    float: left;
+    width: 70px;
+    height: 70px;
+}
+
+.photo-id {
+    background: rgba(255,255,255,.2);
+    width: 200px;
+    height: 200px;
+    margin: 200px 0 0 350px;
+    padding: 9px;
+    position: absolute;
+}
+
+.titlesans--up {
+    font-family: 'Titillium Web', sans-serif;
+    font-size: 25px;
+	color:aliceblue;
+    position:absolute;
+    margin: 420px 0 0 400px;
+}
+
+
+
+
